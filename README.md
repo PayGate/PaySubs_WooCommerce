@@ -4,7 +4,7 @@
 This is the PayGate PaySubs (VCS) plugin for WooCommerce. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
 
 ## Installation
-[![How To Setup PayGate PaySubs (VCS) for WooCommerce](https://www.appinlet.com/wp-content/uploads/2018/09/WooCommerce-Integration-PaySubs.jpg)](https://www.youtube.com/watch?v=NJ_T9KNIII0 "How To Setup PayGate PaySubs (VCS) for WooCommerce")
+[![How To Setup PayGate PaySubs (VCS) for WooCommerce](https://appinlet.com/wp-content/uploads/2021/01/How-To-Setup-PayGate-PaySubs-VCS-for-WooCommerce.jpg)](https://www.youtube.com/watch?v=NJ_T9KNIII0 "How To Setup PayGate PaySubs (VCS) for WooCommerce")
 
 Please navigate to the [releases page](https://github.com/PayGate/PaySubs_WooCommerce/releases), download the latest release (v1.0.5) and unzip. You will then be able to follow the integration guide PDF which is included in the zip.
 
